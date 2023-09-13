@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+.calculator{
+    width: 300px;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 20px;
+    
+}
